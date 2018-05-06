@@ -1,5 +1,5 @@
 (function() {
 
-	foo = 1;
-
+	let foo = 1;
+	return foo;
 })();
